@@ -1691,3 +1691,8 @@ input[type="tel"] {
   background-color: #FFF !important;
   color: #e25440 !important;
 }
+
+.call-button {
+  background-color: #FFF !important;
+  color: rgba(21, 111, 120, 1) !important;
+}
